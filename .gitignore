@@ -1,0 +1,5 @@
+node_modules/
+.wrangler/
+.dev.vars*
+.cloudflare/
+.DS_Store
